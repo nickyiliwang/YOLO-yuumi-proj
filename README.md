@@ -11,3 +11,7 @@ Plan:
 
 Side:
 1. Can we have an list of champion icons of ADC champions for yuumi to auto detach onto. 
+
+Credits:
+1. [Python: Real Time Object Detection (Image, Webcam, Video files) with Yolov3 and OpenCV
+](https://www.youtube.com/watch?v=1LCb1PVqzeY)
